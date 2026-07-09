@@ -6,7 +6,7 @@
 - 📘 ISTQB CTFL in progress.
 - 🧠 [10+ years](https://www.linkedin.com/in/mary-pavlenko/) in UX research and digital products help me see real user journeys, edge cases and product risks.
 - 🦸‍♀️ My strength is making complex product logic testable, documented and clear for cross-functional teams.
-- 📫 Connect with me: [Email](mailto:pavlenkompq@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mary-pavlenko/)
+- 📫 Connect with me: [Email](mailto:pavlenkompq@gmail.com) • [LinkedIn](https://www.linkedin.com/in/mary-pavlenko/) • [CV]([https://www.linkedin.com/in/mary-pavlenko/](https://marypavlenko.github.io/MaryPavlenko/Mariia-Pavlenko-CV.pdf))
 
 ## 🛠 My stack 
 
