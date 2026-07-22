@@ -5,7 +5,7 @@
 - 🤖 UI and API automation in Python: Playwright, pytest, GitHub Actions CI.
 - ⚙️ Postman, Newman, SQL, PostgreSQL, Docker, Git, Jira, TestRail, Swagger.
 - 📘 ISTQB CTFL + 🧠 10 years in UX Research before QA. It taught me how requirements go wrong before they reach a test case, and how real users break flows that pass every happy path.
-- 🇬🇧 UK Global Talent Visa holder, no sponsorship required.
+- 🪪 UK Global Talent Visa holder, no sponsorship required.
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/mary-pavlenko/)
 
 ## 📂 Projects
@@ -13,9 +13,13 @@
 UI automation, page objects, parameterised tests, CI on every push <br>
 `Python` `Playwright` `pytest` `GitHub Actions`
 
-- 🔌 **[api-testing-booking-service](https://github.com/MaryPavlenko/api-testing-booking-service)** <br> API test design, test plan, checklists, contract validation, automated regression, contract validation, CI <br> `Postman` `Newman` `JSON Schema` `GitHub Actions`
+- 🔌 **[api-testing-booking-service](https://github.com/MaryPavlenko/api-testing-booking-service)** <br>
+API test design, test plan, checklists, contract validation, automated regression, CI <br>
+`Postman` `Newman` `JSON Schema` `GitHub Actions`
 
-- 📱 **[mobile-app-testing-ride-sharing](https://github.com/MaryPavlenko/mobile-app-testing-ride-sharing)** <br> Manual testing, test design, reconstructed requirements, 10 checklists, traceability matrix, documentation <br> `TestFlight` `Taiga` `PostgreSQL` `SQL` 
+- 📱 **[mobile-app-testing-ride-sharing](https://github.com/MaryPavlenko/mobile-app-testing-ride-sharing)** <br>
+Manual testing, test design, reconstructed requirements, 10 checklists, traceability matrix, documentation <br>
+`TestFlight` `Taiga` `PostgreSQL` `SQL` 
 
 ## 🛠 My stack
 
