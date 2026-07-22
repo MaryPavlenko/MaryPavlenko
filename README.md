@@ -3,7 +3,7 @@
 - 🇬🇧 QA Engineer based in the UK.
 - 🔍 I focus on functional, exploratory, API and regression testing for web and mobile applications.
 - ⚙️ I work with Python, Pytest, SQL, Postman, Git, GitHub, Jira, Swagger and Chrome DevTools.
-- 📘 ISTQB CTFL in progress.
+- 📘 ISTQB CTFL.
 - 🧠 [10 years](https://www.linkedin.com/in/mary-pavlenko/) in UX research and digital products help me see real user journeys, edge cases and product risks.
 - 🦸‍♀️ My strength is making complex product logic testable, documented and clear for cross-functional teams.
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/mary-pavlenko/)
