@@ -9,7 +9,7 @@
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/mary-pavlenko/)
 
 ## 📂 Projects
-- 🤖 **[ui-automation-playwright](https://github.com/MaryPavlenko/ui-automation-playwright)** <br>
+- 🤖 **[ui-automation-playwright-nhs](https://github.com/MaryPavlenko/ui-automation-playwright-nhs)** <br>
 UI automation, page objects, parameterised tests, CI on every push <br>
 `Python` `Playwright` `pytest` `GitHub Actions`
 
