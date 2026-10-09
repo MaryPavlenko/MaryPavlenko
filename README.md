@@ -17,4 +17,4 @@ I'm always up for collaborating on Playwright automation, API testing, technical
 
 ### 📫 Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/mary-pavlenko/)
-- 📅 [Schedule a 30-minute call](https://calendar.app.google/JR2peu6dwPcQoeq88)
+- [Schedule a 30-minute call](https://calendar.app.google/JR2peu6dwPcQoeq88)
