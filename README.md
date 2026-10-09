@@ -9,7 +9,7 @@ Software Test Engineer. I build automated tests for critical user journeys, vali
 **Open to Collaboration:**
 I'm always up for collaborating on Playwright automation, API testing, technical investigations, open-source QA projects, and hackathons.
 
-✨📂 **Projects**:
+📂 **Projects**:
 * [UI Test Automation (NHS Developer Hub)](https://github.com/MaryPavlenko/ui-automation-playwright-nhs) — Automated UI testing with Playwright and Python, using Page Object Model, pytest fixtures and parameterised tests. `Python` `Playwright` `pytest` `POM`
 * [REST API Testing & Automation (Restful-Booker)](https://github.com/MaryPavlenko/api-testing-booking-service) — API test design, positive and negative scenarios, JSON Schema validation and automated regression checks in CI/CD. `Postman` `Newman` `JSON Schema` `GitHub Actions`
 * [Mobile Application Testing (HamSafar)](https://github.com/MaryPavlenko/mobile-app-testing-ride-sharing) — iOS and Android testing within a QA team. Reconstructed requirements, created 10 module checklists, a traceability matrix and defect reports. `Mobile Testing` `Test Design` `TestFlight`
