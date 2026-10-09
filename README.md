@@ -15,12 +15,6 @@ I'm always up for collaborating on Playwright automation, API testing, technical
 * [Mobile Application Testing (HamSafar)](https://github.com/MaryPavlenko/mobile-app-testing-ride-sharing) — iOS and Android testing within a QA team. Reconstructed requirements, created 10 module checklists, a traceability matrix and defect reports. `Mobile Testing` `Test Design` `TestFlight`
 * [QA Documentation Framework](https://github.com/MaryPavlenko/qa-test-docs-framework) — Reusable templates for test cases, checklists, bug reports and testing evidence.
 
-🛠 **Tech Stack**:
-* **Automation:** Python, TypeScript, Playwright, pytest, POM
-* **API & Backend:** Postman, Newman, REST APIs, SQL, PostgreSQL
-* **Debugging:** Charles Proxy, Chrome DevTools
-* **CI/CD & Tools:** GitHub Actions, Git, Docker, Jira, TestRail
-
 ### 📫 Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/mary-pavlenko/)
 - 📅 [Schedule a 30-minute call](https://calendar.app.google/JR2peu6dwPcQoeq88)
