@@ -2,9 +2,9 @@
 Software Test Engineer. I build automated tests for critical user journeys, validate APIs and investigate application behaviour and failures.
 
 **🔧 What I do:**
-* **Test automation:** Build reusable E2E tests for critical user journeys and integrate automated checks into CI/CD.
-* **API & integration testing:** Test REST APIs, validate responses and investigate data consistency across services.
-* **Technical investigation:** Analyse network traffic, application behaviour and failure scenarios using Charles Proxy and DevTools.
+* **Test Automation:** E2E and API/UI automation with Python, TypeScript and Playwright.
+* **API & Integration Testing:** REST API testing, payment flows and backend data validation with SQL.
+* **Technical investigation:** Network traffic analysis, debugging and failure simulation using Charles Proxy and DevTools.
 
 **Open to Collaboration:**
 I'm always up for collaborating on Playwright automation, API testing, technical investigations, open-source QA projects, and hackathons.
